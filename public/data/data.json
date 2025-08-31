@@ -1,0 +1,32 @@
+{
+  "boards": [],
+  "tasks": [],
+  "users": [
+    {
+      "email": "Admin@gmai",
+      "password": "$2a$10$qvT5eAbhcec9A5uRtQs.yeygNOey0eCasyYOKmaUYKVvd.vw4.s.u",
+      "id": 1
+    },
+    {
+      "email": "Admin@gmail.com",
+      "password": "$2a$10$NWgblw89i7tQBo3oSJbZL.Bhce07hw/4.V7HT5O/jOSfTpKD0m2IG",
+      "id": 2
+    },
+    {
+      "email": "abc@gmail.com",
+      "password": "$2a$10$EggTHuyFsn8xLgZZqspxQOLdhkR3duhTe026.NYWy4jK9hDJF5yxy",
+      "id": 3
+    },
+    {
+      "email": "abc@demo",
+      "password": "$2a$10$cUgLlnoHMt4.FYGxEu6jk.kX49B9VA99aGEnHCAvGjqFgEZ0hLnQW",
+      "id": 4
+    },
+    {
+      "email": "abc@demo.com",
+      "password": "$2a$10$wBimQQOWNB0oUuoe1UJowuKL9cndtUBD.0s/wMxZj3W/RRpTEn29a",
+      "id": 5
+    }
+  ],
+  "lists": []
+}
