@@ -12,6 +12,8 @@ This repo contains everything you need to learn, practice, and master Cypress fo
 ✅ CI/CD integration with Cypress tests
 ✅ Page Object Model (POM) structure for scalable automation
 ✅ Sample test reports & screenshots
+✅ Jenkins CI/CD pipeline for automated test runs
+✅ JUnit report generation support
 
 🛠️ Tech Stack
 
